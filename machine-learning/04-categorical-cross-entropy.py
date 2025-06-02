@@ -82,3 +82,5 @@ activation2.forward(layer2.output)
 
 loss_function = Loss_Categorical_Cross_entropy() # Creating a class for the loss function
 Loss = loss_function.calculate(activation2.output, y) # Retrieving the loss values by passing the softmax probability distribution (activation2) and the target values into our loss function
+print(Loss) # We may output this loss by simply printing it
+# EXAMPLE OUTPUT: 1.3978166737643012
