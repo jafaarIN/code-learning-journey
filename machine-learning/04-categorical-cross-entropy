@@ -1,0 +1,4 @@
+# We've done our softmax activation function, so now we are left with probability distributions regarding how confident our network believes it's predictions to be
+# From here, the next step is to figure out how wrong the network's predictions are relative to the desired outputs
+# We will achieve this through Categorical Cross Entropy
+# Now, the formula for CCE is as follows: ∑C​yi​⋅log(y^​i​)
