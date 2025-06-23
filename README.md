@@ -2,7 +2,7 @@
 
 I started coding at around 9 years old using Lua (luau specifically) for game scripting. As my skills grew, I decided to make a shift to Python, and I've since dabbled in C++ and other low-level languages. This repo will track everything I learn such as concepts, languages, etc.
 
-👨‍💻 Languages I'm exploring:
+Languages I'm exploring:
 - Lua: My starting point. Scripting logic and basic game mechanics.
 - Python: My main language now. Used for automation, games and prototyping.
 - C++: Learning memory management, performance, and OOP. I plan on improving my C++ knowledge soon.
