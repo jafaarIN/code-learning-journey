@@ -1,4 +1,8 @@
-# My programming learning Journey
+# Machine Learning
+
+
+
+NOTE: This repo was originally used to track my programming journey, I have decided to just dedicate it to machine learning, everything below is from the old README.md file
 
 I started coding at around 9 years old using Lua (luau specifically) for game scripting. As my skills grew, I decided to make a shift to Python, and I've since dabbled in C++ and other low-level languages. This repo will track everything I learn such as concepts, languages, etc.
 
